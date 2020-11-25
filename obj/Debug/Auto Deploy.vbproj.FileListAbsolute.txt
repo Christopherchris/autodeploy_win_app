@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Auto Deploy\bin\Debug\Auto Deploy.exe.config
+C:\Users\User\source\repos\Auto Deploy\bin\Debug\Auto Deploy.exe.manifest
+C:\Users\User\source\repos\Auto Deploy\bin\Debug\Auto Deploy.application
+C:\Users\User\source\repos\Auto Deploy\bin\Debug\Auto Deploy.exe
+C:\Users\User\source\repos\Auto Deploy\bin\Debug\Auto Deploy.pdb
+C:\Users\User\source\repos\Auto Deploy\bin\Debug\Auto Deploy.xml
+C:\Users\User\source\repos\Auto Deploy\obj\Debug\Auto Deploy.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\Auto Deploy\obj\Debug\Auto_Deploy.Form1.resources
+C:\Users\User\source\repos\Auto Deploy\obj\Debug\Auto_Deploy.Resources.resources
+C:\Users\User\source\repos\Auto Deploy\obj\Debug\Auto Deploy.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Auto Deploy\obj\Debug\Auto Deploy.exe.manifest
+C:\Users\User\source\repos\Auto Deploy\obj\Debug\Auto Deploy.application
+C:\Users\User\source\repos\Auto Deploy\obj\Debug\Auto Deploy.exe
+C:\Users\User\source\repos\Auto Deploy\obj\Debug\Auto Deploy.xml
+C:\Users\User\source\repos\Auto Deploy\obj\Debug\Auto Deploy.pdb
