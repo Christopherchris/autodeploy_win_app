@@ -28,14 +28,9 @@ jobs:
     # use msbuild to build VS solution which has the SSDT project
     - name: build solution
       run: |
-        echo "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\bin\MSBuild.exe Auto_Deploy.sln"
-        "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\MSBuild.exe Auto_Deploy.sln" 
-        
-    - name: MSBuild
-      working-directory: ${{ github.workspace }}
-      run: msbuild Auto_Deploy.sln p:DeployOnBuild=true /p:PublishProfile=publish
-      
-      
+        echo "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\bin\MSBuild.exe uto_Deploy.sln p:DeployOnBuild=true /p:PublishProfile=publis"
+        "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\MSBuild.exe uto_Deploy.sln p:DeployOnBuild=true /p:PublishProfile=publis" 
+       
     # look for dacpac
     - name: find dacpac
       run: |
