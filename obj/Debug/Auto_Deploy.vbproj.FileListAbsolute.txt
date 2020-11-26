@@ -12,3 +12,17 @@ D:\My Project collections\Auto Deploy\Files\AutoDeploy\obj\Debug\Auto Deploy.app
 D:\My Project collections\Auto Deploy\Files\AutoDeploy\obj\Debug\Auto Deploy.exe
 D:\My Project collections\Auto Deploy\Files\AutoDeploy\obj\Debug\Auto Deploy.xml
 D:\My Project collections\Auto Deploy\Files\AutoDeploy\obj\Debug\Auto Deploy.pdb
+D:\My Project collections\Auto Deploy\autodeploy_win_app\bin\Debug\Auto Deploy.exe.config
+D:\My Project collections\Auto Deploy\autodeploy_win_app\bin\Debug\Auto Deploy.exe.manifest
+D:\My Project collections\Auto Deploy\autodeploy_win_app\bin\Debug\Auto Deploy.application
+D:\My Project collections\Auto Deploy\autodeploy_win_app\bin\Debug\Auto Deploy.exe
+D:\My Project collections\Auto Deploy\autodeploy_win_app\bin\Debug\Auto Deploy.pdb
+D:\My Project collections\Auto Deploy\autodeploy_win_app\bin\Debug\Auto Deploy.xml
+D:\My Project collections\Auto Deploy\autodeploy_win_app\obj\Debug\Auto_Deploy.Form1.resources
+D:\My Project collections\Auto Deploy\autodeploy_win_app\obj\Debug\Auto_Deploy.vbproj.GenerateResource.cache
+D:\My Project collections\Auto Deploy\autodeploy_win_app\obj\Debug\Auto Deploy.exe.manifest
+D:\My Project collections\Auto Deploy\autodeploy_win_app\obj\Debug\Auto Deploy.application
+D:\My Project collections\Auto Deploy\autodeploy_win_app\obj\Debug\Auto Deploy.exe
+D:\My Project collections\Auto Deploy\autodeploy_win_app\obj\Debug\Auto Deploy.xml
+D:\My Project collections\Auto Deploy\autodeploy_win_app\obj\Debug\Auto Deploy.pdb
+D:\My Project collections\Auto Deploy\autodeploy_win_app\obj\Debug\Auto_Deploy.vbprojAssemblyReference.cache

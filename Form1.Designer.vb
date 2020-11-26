@@ -29,7 +29,7 @@ Partial Class Form1
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(656, 63)
+        Me.Button1.Location = New System.Drawing.Point(377, 111)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(96, 49)
         Me.Button1.TabIndex = 0
@@ -42,7 +42,7 @@ Partial Class Form1
         Me.URL.MaximumSize = New System.Drawing.Size(500, 50)
         Me.URL.MinimumSize = New System.Drawing.Size(500, 50)
         Me.URL.Name = "URL"
-        Me.URL.Size = New System.Drawing.Size(500, 50)
+        Me.URL.Size = New System.Drawing.Size(500, 22)
         Me.URL.TabIndex = 1
         '
         'Label1
