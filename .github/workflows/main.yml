@@ -24,10 +24,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-
-      - name: Setup MSBuild.exe
-        uses: Christopherchris/autodeploy_win_app
-        
+ 
       - name: MSBuild
         working-directory: src
         run: msbuild Auto_Deploy.vbproj
