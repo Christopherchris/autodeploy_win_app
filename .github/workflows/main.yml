@@ -28,8 +28,7 @@ jobs:
       - name: Setup MSBuild.exe
         uses: Christopherchris/autodeploy_win_app@main
                 
-      - name: MSBuild
-        working-directory: ${{ github.workspace }}
+      - name: MSBuild 
         run: msbuild Auto_Deploy.vbproj
         
         
