@@ -27,6 +27,6 @@ jobs:
  
       - name: MSBuild
         working-directory: src
-        run: msbuild ${{ github.workspace }}/Auto_Deploy.vbproj
+        run: msbuild ${{ github.workspace }}\Auto_Deploy.vbproj
         
         
